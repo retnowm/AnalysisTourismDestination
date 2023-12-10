@@ -13,4 +13,5 @@ The dataset consists of 3 files:
 
 ## Data Visualisation
 
+![download (7)](https://github.com/retnowm/AnalysisTourismDestination/assets/140676710/0a4d85b0-1227-498e-9931-09cb90dbe810)
 ## Insight
